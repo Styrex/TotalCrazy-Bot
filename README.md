@@ -1,2 +1,0 @@
-# TotalCrazy-Bot
-TotalCrazy Bot
